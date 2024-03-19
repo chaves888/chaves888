@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/SLAriosi/snakeSVG/blob/main/snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
