@@ -8,7 +8,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chaves888&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=20B2AA&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Chaves B Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaves888&layout=compact&hide_border=true&title_color=20B2AA&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaves888&layout=compact&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaves888&bg_color=0d1117&color=008080&line=468ab4&point=22ecec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
